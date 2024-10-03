@@ -4,7 +4,7 @@ def get_matrix(n, m, value):
         matrix.append([])
         for j in range(m):
             matrix[i].append(value)
-        print(matrix)
+    print(matrix)
 
 
 
